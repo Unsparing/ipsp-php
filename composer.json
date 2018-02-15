@@ -1,0 +1,20 @@
+{
+  "name": "unsparing/ipsp-php",
+  "type": "library",
+  "description": "IPSP PHP",
+  "keywords": ["unsparing"],
+  "homepage": "https://",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "twisted1919",
+      "email": "support@mailwizz.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2"
+  },
+  "autoload": {
+    "files": ["autoload.php"]
+  }
+}
